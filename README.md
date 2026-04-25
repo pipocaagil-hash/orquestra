@@ -6,6 +6,33 @@
 
 ---
 
+# Funcionalidades do MVP
+
+- Regras e princípios éticos facilitados
+- O sistema vai fazer perguntas contextuais iniciais para situar o problema dentro da plataforma
+- Identificar nível de impacto social dos dilemas
+
+---
+
+# Funcionalidades já implementadas
+
+- Interface amigável
+- Etapas da trilha definidas
+- Componente de perguntas com opção de respostas
+- Navegação entre perguntas
+- Respostas salvas durante a navegação
+- Barra de progresso da trilha
+- Resposta do site com nível de criticidade do dilema
+
+## Roadmap
+Sprint 0: Setup e Trilha
+Sprint 1: Trilha Funcional (31/03 - 10/04)
+Sprint 2: Valor Real (11/04 - 20/04)
+Sprint 3: Validação Real ( 21/04 - 25/04)
+Sprint 4: Finalização e entrega (26/04 - 30/04)
+
+---
+
 ## Backend — `ethos-api`
 
 > Repositório: [LucasMCFidelis/ethos-api](https://github.com/LucasMCFidelis/ethos-api)
