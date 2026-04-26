@@ -87,7 +87,7 @@ npm run db:studio        # abre o Prisma Studio
 | Ambiente | URL |
 |---|---|
 | Desenvolvimento | https://ethos-api-develop.onrender.com |
-| Produção | `<!-- URL de produção -->` |
+| Produção | https://ethos-api-0z4r.onrender.com |
 | Documentação (Swagger) | https://ethos-api-develop.onrender.com/api/v1/docs |
 
 ---
@@ -153,4 +153,4 @@ npm run lint          # verifica o código com ESLint
 | Ambiente | URL |
 |---|---|
 | Desenvolvimento | https://ethos-frontend-develop.onrender.com |
-| Produção | `<!-- URL de produção -->` |
+| Produção | https://ethos-z1hc.onrender.com |
