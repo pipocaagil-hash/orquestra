@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/LucasMCFidelis/ethos-frontend
+[submodule "api"]
+	path = api
+	url = https://github.com/LucasMCFidelis/ethos-api
