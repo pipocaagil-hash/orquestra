@@ -153,4 +153,4 @@ npm run lint          # verifica o código com ESLint
 | Ambiente | URL |
 |---|---|
 | Desenvolvimento | https://ethos-frontend-develop.onrender.com |
-| Produção | https://ethos-z1hc.onrender.com |
+| Produção | https://ethos.pipocaagil.com.br |
